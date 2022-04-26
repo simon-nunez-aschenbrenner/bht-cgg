@@ -1,0 +1,4 @@
+.DS_Store
+bin
+tex/*
+!tex/texture_sources.txt

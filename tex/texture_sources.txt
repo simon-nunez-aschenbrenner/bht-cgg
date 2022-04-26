@@ -1,0 +1,29 @@
+beach.png
+By Rob Tuytel
+Used under CCO (public domain) license (https://creativecommons.org/publicdomain/zero/1.0/)
+Obtained from https://polyhaven.com/a/aerial_beach_01
+
+clouds.png
+By Reto Stöckli, Robert Simmon et al., NASA Earth Observatory
+Used according to the Visible Earth Image Use Policy (https://visibleearth.nasa.gov/image-use-policy)
+Obtained from https://www.visibleearth.nasa.gov/images/57747/blue-marble-clouds
+
+rock.png
+Altered, source by Rob Tuytel
+Used under CCO (public domain) license (https://creativecommons.org/publicdomain/zero/1.0/)
+Obtained from https://polyhaven.com/a/mossy_rock
+
+sky.png
+Altered, source by Sergej Majboroda
+Used under CCO (public domain) license (https://creativecommons.org/publicdomain/zero/1.0/)
+Obtained from https://polyhaven.com/a/sunflowers
+
+snow.png
+By Rob Tuytel
+Used under CCO license (https://creativecommons.org/publicdomain/zero/1.0/)
+Obtained from https://polyhaven.com/a/snow_02
+
+world.png
+By Reto Stöckli, NASA Earth Observatory
+Used according to the Visible Earth Image Use Policy (https://visibleearth.nasa.gov/image-use-policy)
+Obtained from https://www.visibleearth.nasa.gov/images/73938/january-blue-marble-next-generation
