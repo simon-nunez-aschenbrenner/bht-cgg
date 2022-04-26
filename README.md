@@ -1,7 +1,7 @@
 ###### Deutsch (english version below)
 
 ### Computergrafik Grundlagen
-**Übungsaufgaben im Wintersemester 2021 (3. Studienplansemester)**
+**Übungsaufgaben im Wintersemester 2020 (3. Studienplansemester)**
 
 *Berliner Hochschule für Technik*  
 *Prof. Dr. Henrik Tramberend*
@@ -38,7 +38,7 @@ Image
 ###### English
 
 ### Principles of Computer Graphics
-**Exercises of fall/winter semester 2021 (3rd study plan semester)**
+**Exercises of fall/winter semester 2020 (3rd study plan semester)**
 
 *Berlin University of Applied Sciences and Technology*  
 *Prof. Dr. Henrik Tramberend*
