@@ -3,12 +3,10 @@
 ### Computergrafik Grundlagen
 **Übungsaufgaben im Wintersemester 2021 (3. Studienplansemester)**
 
-*Berliner Hochschule für Technik*
-
+*Berliner Hochschule für Technik*  
 *Prof. Dr. Henrik Tramberend*
 
-`src/cgg` Autor: Simon Núñez Aschenbrenner
-
+`src/cgg` Autor: Simon Núñez Aschenbrenner  
 `src/cgg-tools` Autor: Prof. Dr. Henrik Tramberend
 
 Bearbeitung von elf Übungsaufgaben (`src/cgg/A01.java` etc.) zur Erlernung der Grundlagen der digitalen Bildsynthese.
@@ -42,12 +40,10 @@ Image
 ### Principles of Computer Graphics
 **Exercises of fall/winter semester 2021 (3rd study plan semester)**
 
-*Berlin University of Applied Sciences and Technology*
-
+*Berlin University of Applied Sciences and Technology*  
 *Prof. Dr. Henrik Tramberend*
 
-`src/cgg` Author: Simon Núñez Aschenbrenner
-
+`src/cgg` Author: Simon Núñez Aschenbrenner  
 `src/cgg-tools` Author: Prof. Dr. Henrik Tramberend
 
 Completion of eleven exercises (`src/cgg/A01.java` etc.) to learn the principles of digital image synthesis.
