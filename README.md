@@ -4,7 +4,7 @@
 **Übungsaufgaben im Wintersemester 2020 (3. Studienplansemester)**
 
 *Berliner Hochschule für Technik*  
-*Prof. Dr. Henrik Tramberend*
+*Dozent: Prof. Dr. Henrik Tramberend*
 
 `src/cgg` Autor: Simon Núñez Aschenbrenner  
 `src/cgg-tools` Autor: Prof. Dr. Henrik Tramberend
@@ -41,7 +41,7 @@ Image
 **Exercises of fall/winter semester 2020 (3rd study plan semester)**
 
 *Berlin University of Applied Sciences and Technology*  
-*Prof. Dr. Henrik Tramberend*
+*Lecturer: Prof. Dr. Henrik Tramberend*
 
 `src/cgg` Author: Simon Núñez Aschenbrenner  
 `src/cgg-tools` Author: Prof. Dr. Henrik Tramberend
